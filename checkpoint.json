@@ -1,0 +1,52 @@
+{
+  "exercises": [
+    {
+      "name": "goodbye-mars",
+      "difficulty": 2,
+      "exp": 2800,
+      "time_spent": 0
+    },
+    {
+      "name": "system-logger",
+      "difficulty": 2,
+      "exp": 2800,
+      "time_spent": 0
+    },
+    {
+      "name": "universal-greeting",
+      "difficulty": 2,
+      "exp": 2800,
+      "time_spent": 0
+    },
+    {
+      "name": "average-calc",
+      "difficulty": 2,
+      "exp": 2800,
+      "time_spent": 0
+    },
+    {
+      "name": "multiplication-table",
+      "difficulty": 4,
+      "exp": 5600,
+      "time_spent": 0
+    },
+    {
+      "name": "unit-converter",
+      "difficulty": 4,
+      "exp": 5600,
+      "time_spent": 0
+    },
+    {
+      "name": "strlen",
+      "difficulty": 6,
+      "exp": 8400,
+      "time_spent": 0
+    },
+    {
+      "name": "count-char",
+      "difficulty": 6,
+      "exp": 8400,
+      "time_spent": 0
+    }
+  ]
+}
