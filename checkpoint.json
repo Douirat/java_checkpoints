@@ -1,52 +1,20 @@
 {
   "exercises": [
-    {
-      "name": "goodbye-mars",
-      "difficulty": 2,
-      "exp": 2800,
-      "time_spent": 0
-    },
-    {
-      "name": "system-logger",
-      "difficulty": 2,
-      "exp": 2800,
-      "time_spent": 0
-    },
-    {
-      "name": "universal-greeting",
-      "difficulty": 2,
-      "exp": 2800,
-      "time_spent": 0
-    },
-    {
-      "name": "average-calc",
-      "difficulty": 2,
-      "exp": 2800,
-      "time_spent": 0
-    },
-    {
-      "name": "multiplication-table",
-      "difficulty": 4,
-      "exp": 5600,
-      "time_spent": 0
-    },
-    {
-      "name": "unit-converter",
-      "difficulty": 4,
-      "exp": 5600,
-      "time_spent": 0
-    },
-    {
-      "name": "strlen",
-      "difficulty": 6,
-      "exp": 8400,
-      "time_spent": 0
-    },
-    {
-      "name": "count-char",
-      "difficulty": 6,
-      "exp": 8400,
-      "time_spent": 0
-    }
+    { "name": "date-formatter", "time_spent": "0min" },
+    { "name": "day-of-week", "time_spent": "0min" },
+    { "name": "monthly-period", "time_spent": "0min" },
+    { "name": "age-finder", "time_spent": "0min" },
+    { "name": "html-validator", "time_spent": "0min" },
+    { "name": "url-parsing", "time_spent": "0min" },
+    { "name": "config-protector", "time_spent": "0min" },
+    { "name": "singleton-blueprint", "time_spent": "0min" },
+    { "name": "builder-blueprint", "time_spent": "0min" },
+    { "name": "factory-blueprint", "time_spent": "0min" },
+    { "name": "top-frequents", "time_spent": "0min" },
+    { "name": "longest-common-prefix", "time_spent": "0min" },
+    { "name": "first-unique", "time_spent": "0min" },
+    { "name": "valid-sudoku", "time_spent": "0min" },
+    { "name": "is-armstrong", "time_spent": "0min" },
+    { "name": "perfect-number", "time_spent": "0min" }
   ]
 }
